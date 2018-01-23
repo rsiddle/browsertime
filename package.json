@@ -22,7 +22,7 @@
     "lodash.set": "4.3.2",
     "mkdirp": "0.5.1",
     "moment": "2.18.1",
-    "selenium-webdriver": "3.6.0",
+    "selenium-webdriver": "4.0.0-alpha.1",
     "soprano-saxophone": "0.19.1",
     "valid-url": "1.0.9",
     "xvfb": "0.2.3",
